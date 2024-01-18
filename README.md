@@ -9,7 +9,7 @@
 
 </div>
 
-An experienced Front-End Engineer with more than 3+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, NextJS, Astro, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
+An experienced Front-End Engineer with more than 3+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
 
 Throughout my career, I have led large-scale projects from inception to completion, working with cross-functional teams to ensure successful delivery. I am passionate about developing elegant and efficient software solutions that are scalable, reliable, and maintainable.
 
@@ -17,7 +17,6 @@ I am a problem solver, enjoy taking on complex design and development challenges
 
 <!-- ABOUT ME -->
 ## About Me
-- 🌏 I'm currently based in Karachi, Pakistan
 - 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
 - 🏗️ Working on mobile and web development projects
 - 💬 Ask me about **React,ReactNative & Unity**
@@ -40,7 +39,7 @@ I am a problem solver, enjoy taking on complex design and development challenges
 
 <!-- GITHUB STATS -->
 ## Stats
-<a href="https://github.com/nabeel-shakeel">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=zaid-ahmed-shark&show_icons=true&theme=vue-dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-ahmed-shark&theme=vue-dark&layout=compact" />
+<a href="https://github.com/zaid-ahmed-05">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=zaid-ahmed-05&show_icons=true&theme=vue-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-ahmed-05&theme=vue-dark&layout=compact" />
 </a>
