@@ -124,6 +124,41 @@ A pathfinder platform that allows students to identify the right courses and mak
 #### Responsibilities:
 Developed the i18n translation at front-end on legacy systems.
 
+### EZ Health [Web Application] (10/2021 - 11/2021)
+#### Environment: ReactJS, Vite and React Bootstrap.
+#### Outlined:
+Save time and money by talking to a board certified doctor on your phone or computer
+#### Responsibilities:
+During this role, development and design efforts were focused on introducing novel features and rectifying identified bugs. The task involved seamlessly integrating new functionalities while addressing existing issues to enhance the overall stability and performance of the system.
+
+### SideKick [Web Application] (8/2021 - 9/2021)
+#### Environment: ReactJS, Material UI and Microsoft Teams
+#### Outlined:
+Sidekick captures meeting action items automatically and lets the team track them in a single tool.
+#### Responsibilities:
+During this role, development and design efforts were focused on introducing novel features and rectifying identified bugs.
+
+### Anooka [Web Application] (6/2021 - 7/2021)
+#### Environment: ReactJS, Material UI
+#### Outlined:
+A web application that shows users to perform exercises on a daily basis , a coach and customer system where users can chat with their master to perform exercises on a daily task basis.
+#### Responsibilities:
+Built and designed entirely from the ground up, using the create-react-app convention.
+
+### Vaada [Mobile Application] (11/2020 - 1/2021)
+#### Environment: React Native, React Native Paper and Firebase
+#### Outlined:
+An app for buying Coronavirus vaccines.
+#### Responsibilities:
+Developed and designed the system using React Native mobile Application with Database storing collection using Firebase.
+
+### VR Inspection [Virtual Reality Development] (10/2020 - 11/2020)
+#### Environment: Unity 3D
+#### Outlined:
+An civil engineering Virtual Reality application, shows the information about buildings and roads.
+#### Responsibilities:
+Developed and designed the system using Unity from scratch. (VR Application).
+
 
 # Notes
 - Unable to display the code directly as all my repositories are private and licensed. However, I can share it with you through the link, or we can connect via Zoom or Meet to discuss the code.
