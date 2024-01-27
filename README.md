@@ -54,105 +54,105 @@ I am a problem solver, enjoy taking on complex design and development challenges
 
 <!-- PROJECTS -->
 ## Project Experience
-### PureDome Admin Console [Web Application] (11/2023 - Present)
+### PureDome Admin Console [Web Application] (Nov/2023 - Present)
 #### Environment: ReactJS, Ant Design v4, SCSS and WebPack.
 #### Outlined: 
 PureDome is a corporate VPN offering integrated cybersecurity, secure remote team connectivity, and data access solutions. It provides businesses with a centralized platform to safeguard assets and enhance productivity.
 #### Responsibilities: 
 Implemented various features for PureDome's admin console, including functionalities such as Posture Check, Service Account and Reporting Logs. These features were successfully integrated and went live at the Production.
 
-### Partner Portal Admin Portal (PureDome) [Web Application] (11/2023 - Present)
+### Partner Portal Admin Portal (PureDome) [Web Application] (Nov/2023 - Present)
 #### Environment: React, Typescript, Ant Design v5 (Latest), SCSS, React Select, Redux Toolkit Query, React Hook Form, Recurly and Vite.
 #### Outlined: 
 A web application that serves as an agreement platform between PureDome and its partners. This marketing-oriented product is designed to enhance collaboration with PureDome partners.
 #### Responsibilities: 
 Built and designed entirely from the ground up, employing the Vite Build Tool and adhering to the latest conventions in React development.
   
-### Pure Privacy [Web Application] (07/2023 - 11/2023)
+### Pure Privacy [Web Application] (Jul/2023 - Nov/2023)
 #### Environment: React, Typescript, TailwindCSS, SCSS, Redux Toolkit Query, React Hook Form, Recurly and Vite.
 #### Outlined: 
 PurePrivacy is a Dashboard Web Application designed to function as a secure Social Media Auditor (SMA). It analyzes your existing privacy settings, provides recommendations for adjustments, and facilitates automatic measures to ensure the ongoing security of your data.
 #### Responsibilities: 
 Design, develop, and employ Test-Driven Development (TDD) for the front-end web application based on given mockups. Utilize Nx Workspace to build the React application via the Vite system.
   
-### Arabian Oil & Gas Drilling [Mobile Application] (02/2023 - 05/2023)
+### Arabian Oil & Gas Drilling [Mobile Application] (Feb/2023 - Jun/2023)
 #### Environment: React Native, Typescript, React Native Ant Design, Redux Toolkit Query
 #### Outlined: 
 A mobile application designed for company administrators to efficiently oversee organizational operations. The app features an interactive dashboard providing real-time data insights, reporting mechanisms, settings, and task management capabilities.
 #### Responsibilities: 
 Develop React Native components in TypeScript using React Native Ant Design. Collaborate on API implementation with backend developers.
   
-### Social Media Auditor (SMA) [Mobile Application] (11/2022 - 12/2020)
+### Social Media Auditor (SMA) [Mobile Application] (Nov/2022 - Dec/2020)
 #### Environment: React Native, Typescript, React Native Paper, Redux Toolkit Query.
 #### Outlined:
 PurePrivacy is a secure social media auditor (SMA) that analyzes your current privacy settings, recommends changes, and helps you automatically keep your data safe.
 #### Responsibilities:
 Replicate the front end Design on React Native.
   
-### Deal Card Admin Panel [Web Application] (08/2022 - 11/2022)
+### Deal Card Admin Panel [Web Application] (Aug/2022 - Nov/2022)
 #### Environment: React, Typescript, MUI, Redux Toolkit Query, React Hook Form and WebPack.
 #### Outlined:
 DealCart is a Buying Social Commerce Platform that enables users to buy their favorite products in groups and share deals for further discounts on WhatsApp and other social media platforms.
 #### Responsibilities:
 Develop and Design the front-end from scratch. Coordination with backend devs to resolve issues coming at the front end. Discussion in meetings to understand the business flows and focus on engineering.
 
-### Shopping A.I [Web Application] (04/2022 - 07/2022)
+### Shopping A.I [Web Application] (Apr/2022 - Jul/2022)
 #### Environment: React, Typescript, MUI, Redux Toolkit Query, React Hook Form, Stripe and WebPack.
 #### Outlined:
 Creating a Chrome extension that allows users to make one-time checkouts from multiple stores with a single checkout.
 #### Responsibilities:
 Develop and Design the front-end from scratch. Coordination with backend devs to resolve issues coming at the front end. Discussion in meetings to understand the business flows and focus on engineering.
 
-### Embedded Commerce [Web Application] (02/2022 - 04/2022)
+### Embedded Commerce [Web Application] (Feb/2022 - Apr/2022)
 #### Environment: ReactJS, MUI, Redux, React Hook Form, Stripe and WebPack.
 #### Outlined:
 A web application integrated with wordpress through link where user can buy VPNs that will redirect to automated checkout process on backend without customer knowing and purchase the vpn on customer behalf.
 #### Responsibilities:
 The front end was developed and designed, with coordination maintained with backend developers to address any issues arising in the user interface. Collaboration with the DevOps team facilitated the deployment of applications on the client server. Discussions with the client revolved around integrating the UI with WordPress, ensuring a seamless and effective implementation.
 
-### Anooka [Web Application] (12/2021 - 01/2022)
+### Anooka [Web Application] (Dec/2021 - Jan/2022)
 #### Environment: ReactJS, MUI, Redux, React Hook Form and WebPack.
 #### Outlined:
 A web application that shows users to perform exercises on a daily basis , a coach and customer system where users can chat with their master to perform exercises on a daily task basis.
 #### Responsibilities:
 Led the team in developing and designing new features, as well as addressing bug fixes. Additionally, played a role in mentoring and guiding new team members.
 
-### Stellic [Web Application] (11/2021 - 12/2021)
+### Stellic [Web Application] (Nov/2021 - Dec/2021)
 #### Environment: AngularJS (Legacy), Bootstrap, i18n-angular.
 #### Outlined:
 A pathfinder platform that allows students to identify the right courses and make the right choices to graduate on time.
 #### Responsibilities:
 Developed the i18n translation at front-end on legacy systems.
 
-### EZ Health [Web Application] (10/2021 - 11/2021)
+### EZ Health [Web Application] (Oct/2021 - Nov/2021)
 #### Environment: ReactJS, Vite and React Bootstrap.
 #### Outlined:
 Save time and money by talking to a board certified doctor on your phone or computer
 #### Responsibilities:
 During this role, development and design efforts were focused on introducing novel features and rectifying identified bugs. The task involved seamlessly integrating new functionalities while addressing existing issues to enhance the overall stability and performance of the system.
 
-### SideKick [Web Application] (8/2021 - 9/2021)
+### SideKick [Web Application] (Aug/2021 - Sep/2021)
 #### Environment: ReactJS, Material UI and Microsoft Teams
 #### Outlined:
 Sidekick captures meeting action items automatically and lets the team track them in a single tool.
 #### Responsibilities:
 During this role, development and design efforts were focused on introducing novel features and rectifying identified bugs.
 
-### Anooka [Web Application] (6/2021 - 7/2021)
+### Anooka [Web Application] (Jun/2021 - Jul/2021)
 #### Environment: ReactJS, Material UI
 #### Outlined:
 A web application that shows users to perform exercises on a daily basis , a coach and customer system where users can chat with their master to perform exercises on a daily task basis.
 #### Responsibilities:
 Built and designed entirely from the ground up, using the create-react-app convention.
 
-### Vaada [Mobile Application] (11/2020 - 1/2021)
+### Vaada [Mobile Application] (Nov/2020 - Jan/2021)
 #### Environment: React Native, React Native Paper and Firebase
 #### Outlined:
 An app for buying Coronavirus vaccines.
 #### Responsibilities:
 Developed and designed the system using React Native mobile Application with Database storing collection using Firebase.
 
-### VR Inspection [Virtual Reality Development] (10/2020 - 11/2020)
+### VR Inspection [Virtual Reality Development] (Oct/2020 - Nov/2020)
 #### Environment: Unity 3D
 #### Outlined:
 An civil engineering Virtual Reality application, shows the information about buildings and roads.
