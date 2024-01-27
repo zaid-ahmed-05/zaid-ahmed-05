@@ -41,6 +41,9 @@ I am a problem solver, enjoy taking on complex design and development challenges
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="css3" width="40" height="40"/>
+    <!-- PAYMENT GATEWAYS -->
+    <img src="https://recurly.com/img2/brand/wordmark-1@2x.png" alt="recurly" width="120" height="40"/>
+    <img src="https://asset.brandfetch.io/idxAg10C0L/idTHPdqoDR.jpeg?updated=1698141908115" alt="stripe" width="40" height="40"/>
     <!-- Build Tool -->
     <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
