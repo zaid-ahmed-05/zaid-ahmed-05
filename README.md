@@ -58,6 +58,23 @@ I am a problem solver, enjoy taking on complex design and development challenges
 - DealCart is a Buying Social Commerce Platform that enables users to buy their favorite products in groups and share deals for further discounts on WhatsApp and other social media platforms.
 - Develop and Design the front-end from scratch. Coordination with backend devs to resolve issues coming at the front end. Discussion in meetings to understand the business flows and focus on engineering.
 
+### Shopping A.I [Web Application] (04/2022 - 07/2022)
+- Creating a Chrome extension that allows users to make one-time checkouts from multiple stores with a single checkout.
+- Develop and Design the front-end from scratch. Coordination with backend devs to resolve issues coming at the front end. Discussion in meetings to understand the business flows and focus on engineering.
+
+### Embedded Commerce [Web Application] (02/2022 - 04/2022)
+- A web application integrated with wordpress through link where user can buy VPNs that will redirect to automated checkout process on backend without customer knowing and purchase the vpn on customer behalf.
+- The front end was developed and designed, with coordination maintained with backend developers to address any issues arising in the user interface. Collaboration with the DevOps team facilitated the deployment of applications on the client server. Discussions with the client revolved around integrating the UI with WordPress, ensuring a seamless and effective implementation.
+
+### Anooka [Web Application] (12/2021 - 01/2022)
+- A web application that shows users to perform exercises on a daily basis , a coach and customer system where users can chat with their master to perform exercises on a daily task basis.
+- Led the team in developing and designing new features, as well as addressing bug fixes. Additionally, played a role in mentoring and guiding new team members.
+
+### Stellic [Web Application] (11/2021 - 12/2021)
+- A pathfinder platform that allows students to identify the right courses and make the right choices to graduate on time
+- Developed the i18n translation at front-end on legacy systems.
+
+
 # Notes
 - Unable to display the code directly as all my repositories are private and licensed. However, I can share it with you through the link, or we can connect via Zoom or Meet to discuss the code.
 <!-- PLATFORMS -->
