@@ -24,33 +24,25 @@ I am a problem solver, enjoy taking on complex design and development challenges
 
 <!-- EXPERTISE -->
 ## Tech Stack
-<div> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <!-- STATE MANAGEMENT -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux-rtk" width="40" height="40"/>
-    <!-- VALIDATION -->
-    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react-hook-form" width="40" height="40"/>
-    <img src="https://avatars.githubusercontent.com/u/339286?s=48&v=4" alt="yup" width="40" height="40"/>
-    <!-- UI LIBRARIES -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="40" height="40"/>
-    <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="daisyui" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="css3" width="40" height="40"/>
-    <!-- PAYMENT GATEWAYS -->
-    <img src="https://recurly.com/img2/brand/wordmark-1@2x.png" alt="recurly" width="120" height="40"/>
-    <img src="https://asset.brandfetch.io/idxAg10C0L/idTHPdqoDR.jpeg?updated=1698141908115" alt="stripe" width="40" height="40"/>
-    <!-- Build Tool -->
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-    <!-- CODE EDITOR -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-</div>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://javascript.info/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>](https://react.dev/learn)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux-rtk" width="40" height="40"/>](https://redux-toolkit.js.org/rtk-query/overview)
+[<img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react-hook-form" width="40" height="40"/>](https://react-hook-form.com/)
+[<img src="https://avatars.githubusercontent.com/u/339286?s=48&v=4" alt="yup" width="40" height="40"/>](https://github.com/jquense/yup)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>](https://mui.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/)
+[<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="40" height="40"/>](https://ant.design/components/overview/)
+[<img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="daisyui" width="40" height="40"/>](https://daisyui.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>](https://www.w3schools.com/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)
+[<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="css3" width="40" height="40"/>](https://sass-lang.com/)
+[<img src="https://recurly.com/img2/brand/wordmark-1@2x.png" alt="recurly" width="120" height="40"/>](https://recurly.com/)
+[<img src="https://asset.brandfetch.io/idxAg10C0L/idTHPdqoDR.jpeg?updated=1698141908115" alt="stripe" width="40" height="40"/>](https://stripe.com/)
+[<img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>](https://vitejs.dev/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>](https://unity.com/)
 
 <!-- PROJECTS -->
 ## Project Experience
