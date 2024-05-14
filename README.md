@@ -35,9 +35,9 @@ I am a problem solver, enjoy taking on complex design and development challenges
     <img src="https://avatars.githubusercontent.com/u/339286?s=48&v=4" alt="yup" width="40" height="40"/>
     <!-- UI LIBRARIES -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="40" height="40"/>
-    <img src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="daisyui" width="40" height="40"/>
+    <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="daisyui" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="css3" width="40" height="40"/>
