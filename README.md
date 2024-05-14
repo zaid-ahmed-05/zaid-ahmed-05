@@ -9,7 +9,7 @@
 
 </div>
 
-An experienced Front-End Engineer with more than 3+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
+An experienced Front-End Engineer with more than 4+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
 
 Throughout my career, I have led large-scale projects from inception to completion, working with cross-functional teams to ensure successful delivery. I am passionate about developing elegant and efficient software solutions that are scalable, reliable, and maintainable.
 
@@ -19,8 +19,8 @@ I am a problem solver, enjoy taking on complex design and development challenges
 ## About Me
 - 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
 - 🏗️ Working on mobile and web development projects
-- 💬 Ask me about **React,ReactNative & Unity**
-- 📫 How to reach me **zaidahmed05@hotmail.com**
+- 💬 Ask me about **React, ReactNative & Unity**
+- 📫 How to reach me **zaidahmed2625@gmail.com**
 
 <!-- EXPERTISE -->
 ## Tech Stack
@@ -165,7 +165,7 @@ Developed and designed the system using Unity from scratch. (VR Application).
 <!-- PLATFORMS -->
 ## Connect
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-ahmed-433264116/)
-[![image](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidahmed05@hotmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidahmed2625@gmail.com)
 
 <!-- GITHUB STATS -->
 ## Stats
